@@ -1,6 +1,6 @@
 # WebDevProj
 
-Members:
+**Members:**
 Tolebayev Temirlan 
 Adil Birlesov
 Derbis Timur
