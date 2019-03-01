@@ -1,10 +1,5 @@
 # WebDevProj
 
-**Members:**
-Tolebayev Temirlan 
-Adil Birlesov
-Derbis Timur
-Yerkenov Almukhammed
 
 | Name  | GitHub  |  Email |
 | ------------- | ------------- | ------------- |
